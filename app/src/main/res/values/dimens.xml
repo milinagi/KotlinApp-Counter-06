@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text_size">32sp</dimen>
+    <dimen name="button_size">128dp</dimen>
+    <dimen name="text_view_count_size">48sp</dimen>
+    <dimen name="common_padding_min">8dp</dimen>
+    <dimen name="button_stroke">1dp</dimen>
+    <dimen name="count_radius">16dp</dimen>
+    <dimen name="count_stroke">1dp</dimen>
+    <dimen name="count_size">128dp</dimen>
+</resources>

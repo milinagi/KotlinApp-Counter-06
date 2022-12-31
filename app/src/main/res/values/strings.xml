@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApp-Counter-06</string>
+    <string name="button_sum">+1</string>
+    <string name="tv_count">0</string>
+</resources>
